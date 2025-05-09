@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Lashawn! <br/><a href="https://github.com/LashawnFofung">Project Manager</a>, <a href="https://www.linkedin.com/in/lashawnfofung/">Strategy | Agile |Technology Professional</a><a/h1>
 
-<!--
-**LashawnFofung/LashawnFofung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
+- <b> Data-Driven Decision Making (Linear Regression, Microsoft Excel Data Analysis, Decision Tree)</b>
+  - [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
+  - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
+- <b> IT Strategic Solutions (SWOT Analysis, Market Research, NPI)</b>
+  - [Fofung Voyages Strategic Technology Plan](https://github.com/LashawnFofung/Fofung-Voyages-Strategic-Technology-Plan) <b>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 YouTube Videos</h2>
+
+- [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA?si=5VsE73RqBc0Yh_8Z)
+  
