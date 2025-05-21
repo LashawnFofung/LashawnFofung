@@ -27,7 +27,7 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 - <b>Portfolio - Strategy Project</b>
     - <b> IT Strategic Solutions (SWOT Analysis, Market Research, NPI)</b>
       - [Fofung Voyages Strategic Technology Plan](https://github.com/LashawnFofung/Fofung-Voyages-Strategic-Technology-Plan) <b>
-  
+<h2></h2>  
 
 <h2>Certifications:</h2>
 
@@ -38,7 +38,7 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 - <b> Ceritified Scrum Product Owner(CSPO)</b>
   - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) <b>
 
-
+<h2></h2>
 
 <h2>YouTube Videos</h2>
 
