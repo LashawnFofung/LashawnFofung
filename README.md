@@ -19,7 +19,7 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 
     
 
-- [Portfolio - Data Analysis Projects]
+- <b>[Portfolio - Data Analysis Projects]</b>
     - Excel
       - <b> Data-Driven Decision Making (Linear Regression, Microsoft Excel Data Analysis, Decision Tree)</b>
         - [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
@@ -28,9 +28,10 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
     - Power BI
     - Tableau
     - Python
-  - [Portfolio - Strategy Project]
+
+- <b>[Portfolio - Strategy Project]</b>
     - <b> IT Strategic Solutions (SWOT Analysis, Market Research, NPI)</b>
-    -[Fofung Voyages Strategic Technology Plan](https://github.com/LashawnFofung/Fofung-Voyages-Strategic-Technology-Plan) <b>
+      - [Fofung Voyages Strategic Technology Plan](https://github.com/LashawnFofung/Fofung-Voyages-Strategic-Technology-Plan) <b>
   
 
 <h2>Certifications:</h2>
