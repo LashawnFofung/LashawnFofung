@@ -30,15 +30,13 @@ I am passionate about fostering collaborative relationships with diverse stakeho
 Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.
 <h2></h2>
 
-<h2>PROJECTS</h2>
+<h1>PROJECTS</h1>
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-    <b>Portfolio - Data Analysis Projects</b>
+    <h2>Portfolio - Data Analysis Projects</h2>
 
-             
-            <b>Analyzing the Drug Market </b>
-
+        <b>Analyzing the Drug Market </b>
                 **Code:** [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
                     
                 **Goal:** To determine what factors contribute 
