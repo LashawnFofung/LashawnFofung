@@ -1,5 +1,8 @@
 <h1>Hi, I'm Lashawn! <br/><a href="https://github.com/LashawnFofung">Project Manager</a>, <a href="https://www.linkedin.com/in/lashawnfofung/">Strategy | Agile |Technology Professional</a><a/h1>
 
+<h2> About Me:</h2>
+
+
 <h2>👨‍💻 Certifications:</h2>
 
 - <b> Project Management Professional(PMP)</b>
