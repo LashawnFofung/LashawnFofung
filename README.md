@@ -23,11 +23,12 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 - <b>[YOUTUBE VIDEOS]</b>
 
 <h2>PROJECTS</h2>
+
 - <b>Portfolio - Data Analysis Projects</b>
     - Excel
-      - <b> Data-Driven Decision Making (Linear Regression, Microsoft Excel Data Analysis, Decision Tree)</b>
-        - [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
-        - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
+        - <b> Data-Driven Decision Making (Linear Regression, Microsoft Excel Data Analysis, Decision Tree)</b>
+            - [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
+            - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
     - SQL
     - Power BI
     - Tableau
@@ -56,4 +57,10 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 <h2></h2>
 
 <h2>YOUTUBE VIDEOS</h2>
-- [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA?si=5VsE73RqBc0Yh_8Z)
+
+- [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA)
+
+ 
+
+
+
