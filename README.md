@@ -14,6 +14,14 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 
 <h2>Table of Contents:</h2> 
 
+- <b>[ABOUT ME] </b>
+- <b>[PROJECTS]</b>
+    - <b>[Data Analysis Projects] </b>
+    - <b>[Strategy /NPI Projects] </b>
+- <b>[CERTIFICATIONS]</b>
+- <b>[CONTACT]</b>
+
+<h2>PROJECTS</h2>
 - <b>Portfolio - Data Analysis Projects</b>
     - Excel
       - <b> Data-Driven Decision Making (Linear Regression, Microsoft Excel Data Analysis, Decision Tree)</b>
