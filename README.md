@@ -9,9 +9,7 @@ In addition, I have completed immersive simulations in AI Product Management, GR
 
 I am passionate about fostering collaborative relationships with diverse stakeholders and creating a supportive, results-oriented workplace. Promoting diversity and inclusion is a core value, and I thrive in environments that encourage continuous learning.
 
-Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.
-
-</b>
+Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.</b>
 
 <h2>👨‍💻 Certifications:</h2>
 
@@ -21,7 +19,6 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
   - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) <b>
 - <b> Ceritified Scrum Product Owner(CSPO)</b>
   - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) <b>
-
 
 
 <h2>👨‍💻 Projects:</h2>
