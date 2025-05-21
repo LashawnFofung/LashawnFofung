@@ -6,6 +6,12 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 - <b>[ABOUT ME](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#about-me) </b>
 - <b>[PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#projects)</b>
+    - Excel
+    - Stragey
+    - SQL
+    - Power BI
+    - Tableau
+    - Python 
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#certifications)</b>
 - <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#contact)</b>
 - <b>[YOUTUBE VIDEOS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#youtube-videos)</b>
@@ -25,12 +31,42 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 <h2></h2>
 
 <h2>PROJECTS</h2>
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 - <b>Portfolio - Data Analysis Projects</b>
-    - Excel
-        - <b> Data-Driven Decision Making (Linear Regression, Microsoft Excel Data Analysis, Decision Tree)</b>
+   - <b> Data-Driven Decision Making (Linear Regression, Microsoft Excel Data Analysis, Decision Tree)</b>
             - [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
-            - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
+
+
+
+              **Code:** [ Analyze] 
+
+              **Goal:**
+
+              **Description:** The project focused on analyzing a dataset of
+    
+              **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+      
+              **Technology:**
+ 
+              **Results:**
+ 
+      
+      - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
+    
+        **Code:** [ Analyze] 
+
+        **Goal:**
+
+              **Description:** The project focused on analyzing a dataset of
+    
+              **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+      
+              **Technology:**
+ 
+              **Results:**
+ 
+    
     - SQL
     - Power BI
     - Tableau
