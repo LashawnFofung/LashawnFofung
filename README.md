@@ -11,6 +11,9 @@ I am passionate about fostering collaborative relationships with diverse stakeho
 
 Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.</b>
 
+<h2>Table of Contents:</h2>
+
+
 <h2>👨‍💻 Certifications:</h2>
 
 - <b> Project Management Professional(PMP)</b>
