@@ -33,44 +33,41 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 <h2>PROJECTS</h2>
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-<h2></h2>
 
-    <h2>Portfolio - Data Analysis Projects</h2>
-           
-    <h2>Portfolio - Data Analysis Projects</h2>   
-        Analyzing the Drug Market 
-        
-        Data-Driven Decision Making       
-        
-        **Code:** [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
-            
-        **Goal:** To determine what factors contribute 
-            
-        **Description:** The project focused on analyzing a dataset of 
-            
-        **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
-            
-        **Technology:** Excel Data Analysis, Decision Tree Analysis
-            
-        **Results:** Using ..
+    <b>Portfolio - Data Analysis Projects</b>
+
+             
+            <b>Analyzing the Drug Market </b>
+
+                **Code:** [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
+                    
+                **Goal:** To determine what factors contribute 
+                    
+                **Description:** The project focused on analyzing a dataset of 
+                    
+                **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+                    
+                **Technology:** Excel Data Analysis, Decision Tree Analysis
+                    
+                **Results:** Using ..
 
 
     
     
-    ### Analyzing the Impact Wellness Participation has on Nurse Attrition Rate ............
-        Data-Driven Decision Making
-        
-        **Code:** [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
-        
-        **Goal:** To determine what factors contribute the .....
-        
-        **Description:** The project focused on analyzing a dataset of ......
-        
-        **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
-        
-        **Technology:** Excel Data Analysis, Decision Tree Analysis
-        
-        **Results:** Using .........
+        ### Analyzing the Impact Wellness Participation has on Nurse Attrition Rate ............
+            Data-Driven Decision Making
+            
+            **Code:** [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
+            
+            **Goal:** To determine what factors contribute the .....
+            
+            **Description:** The project focused on analyzing a dataset of ......
+            
+            **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+            
+            **Technology:** Excel Data Analysis, Decision Tree Analysis
+            
+            **Results:** Using .........
     
   
 
