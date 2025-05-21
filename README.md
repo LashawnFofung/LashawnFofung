@@ -1,4 +1,5 @@
-<h1>Hi, I'm Lashawn! <br/><a href="https://github.com/LashawnFofung">Project Manager</a>, <a href="https://www.linkedin.com/in/lashawnfofung/">Strategy | Agile |Technology Professional</a><a/h1>
+<h1>Lashawn Fofung - Portfolio</h1>
+MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 <h2>ABOUT ME</h2>
 I am a strategic and client-focused business management professional with a strong background across healthcare, software development, IT, and project management. My journey into project management began with organizing family trips and events, and managing my academic and career paths. Over the years, this initial spark has evolved into a refined skill set and deepened expertise. I excel in managing complex IT projects using Agile and Waterfall methodologies. My approach ensures compliance with SDLC standards and drives cross-functional alignment to deliver high-quality solutions on time. My expertise in data analytics, software development, and project management is complemented by a commitment to continuous learning. This dedication helps me effectively address challenges and provide valuable client solutions.
@@ -52,6 +53,7 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 
 <h2>CONTACT</h2>
 
+- [LinkedIn](https://www.linkedin.com/in/lashawnfofung/)
 
   
 <h2></h2>
