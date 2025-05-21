@@ -9,7 +9,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 - <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#contact)</b>
 - <b>[YOUTUBE VIDEOS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#youtube-videos)</b>
 
-<h2>PROJECTS</h2>
+<h2></h2>
 
 <h2>ABOUT ME</h2>
 I am a strategic and client-focused business management professional with a strong background across healthcare, software development, IT, and project management. My journey into project management began with organizing family trips and events, and managing my academic and career paths. Over the years, this initial spark has evolved into a refined skill set and deepened expertise. I excel in managing complex IT projects using Agile and Waterfall methodologies. My approach ensures compliance with SDLC standards and drives cross-functional alignment to deliver high-quality solutions on time. My expertise in data analytics, software development, and project management is complemented by a commitment to continuous learning. This dedication helps me effectively address challenges and provide valuable client solutions.
@@ -23,6 +23,7 @@ I am passionate about fostering collaborative relationships with diverse stakeho
 Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.
 <h2></h2>
 
+<h2>PROJECTS</h2>
 
 - <b>Portfolio - Data Analysis Projects</b>
     - Excel
