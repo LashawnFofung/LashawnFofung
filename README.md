@@ -15,13 +15,11 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 
 <h2>TABLE OF CONTENTS</h2> 
 
-- <b>[ABOUT ME] </b>
-- <b>[PROJECTS]</b>
-    - <b>[Data Analysis Projects] </b>
-    - <b>[Strategy /NPI Projects] </b>
-- <b>[CERTIFICATIONS]</b>
-- <b>[CONTACT]</b>
-- <b>[YOUTUBE VIDEOS]</b>
+- <b>[ABOUT ME](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#about-me) </b>
+- <b>[PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#projects)</b>
+- <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#certifications)</b>
+- <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#contact)</b>
+- <b>[YOUTUBE VIDEOS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#youtube-videos)</b>
 
 <h2>PROJECTS</h2>
 
