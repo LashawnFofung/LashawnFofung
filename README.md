@@ -7,7 +7,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 - <b>[ABOUT ME](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#about-me) </b>
 - <b>[PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#projects)</b>
     - Excel
-    - Stragey
+    - Strategy
     - SQL
     - Power BI
     - Tableau
