@@ -1,7 +1,7 @@
 <h1>Hi, I'm Lashawn! <br/><a href="https://github.com/LashawnFofung">Project Manager</a>, <a href="https://www.linkedin.com/in/lashawnfofung/">Strategy | Agile |Technology Professional</a><a/h1>
 
-<h2> About Me:</h2>
-<b>I am a strategic and client-focused business management professional with a strong background across healthcare, software development, IT, and project management. My journey into project management began with organizing family trips and events, and managing my academic and career paths. Over the years, this initial spark has evolved into a refined skill set and deepened expertise. I excel in managing complex IT projects using Agile and Waterfall methodologies. My approach ensures compliance with SDLC standards and drives cross-functional alignment to deliver high-quality solutions on time. My expertise in data analytics, software development, and project management is complemented by a commitment to continuous learning. This dedication helps me effectively address challenges and provide valuable client solutions.
+<h2> About Me</h2>
+I am a strategic and client-focused business management professional with a strong background across healthcare, software development, IT, and project management. My journey into project management began with organizing family trips and events, and managing my academic and career paths. Over the years, this initial spark has evolved into a refined skill set and deepened expertise. I excel in managing complex IT projects using Agile and Waterfall methodologies. My approach ensures compliance with SDLC standards and drives cross-functional alignment to deliver high-quality solutions on time. My expertise in data analytics, software development, and project management is complemented by a commitment to continuous learning. This dedication helps me effectively address challenges and provide valuable client solutions.
 
 My recent experiences include leading Scrum teams at United Health Group - Optum, where I managed sprint planning, resource allocation, and stakeholder collaboration. These roles honed my proactive problem-solving skills, communication abilities, and capacity to manage multiple priorities, consistently driving successful project outcomes.
 
@@ -9,12 +9,31 @@ In addition, I have completed immersive simulations in AI Product Management, GR
 
 I am passionate about fostering collaborative relationships with diverse stakeholders and creating a supportive, results-oriented workplace. Promoting diversity and inclusion is a core value, and I thrive in environments that encourage continuous learning.
 
-Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.</b>
+Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.
+<h2></h2>
 
 <h2>Table of Contents:</h2>
 
 
-<h2>👨‍💻 Certifications:</h2>
+-[About] 
+
+    
+
+- [Portfolio - Data Analysis Projects]
+    - Excel
+      - <b> Data-Driven Decision Making (Linear Regression, Microsoft Excel Data Analysis, Decision Tree)</b>
+        - [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
+        - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
+    - SQL
+    - Power BI
+    - Tableau
+    - Python
+  - [Portfolio - Strategy Project]
+    - <b> IT Strategic Solutions (SWOT Analysis, Market Research, NPI)</b>
+    -[Fofung Voyages Strategic Technology Plan](https://github.com/LashawnFofung/Fofung-Voyages-Strategic-Technology-Plan) <b>
+  
+
+<h2>Certifications:</h2>
 
 - <b> Project Management Professional(PMP)</b>
   - [Badge Link](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url) <b>
@@ -24,16 +43,8 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
   - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) <b>
 
 
-<h2>👨‍💻 Projects:</h2>
 
-- <b> Data-Driven Decision Making (Linear Regression, Microsoft Excel Data Analysis, Decision Tree)</b>
-  - [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
-  - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
-- <b> IT Strategic Solutions (SWOT Analysis, Market Research, NPI)</b>
-  - [Fofung Voyages Strategic Technology Plan](https://github.com/LashawnFofung/Fofung-Voyages-Strategic-Technology-Plan) <b>
-  
-
-<h2>📺 YouTube Videos</h2>
+<h2>YouTube Videos</h2>
 
 - [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA?si=5VsE73RqBc0Yh_8Z)
   
