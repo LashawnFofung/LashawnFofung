@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lashawn! <br/><a href="https://github.com/LashawnFofung">Project Manager</a>, <a href="https://www.linkedin.com/in/lashawnfofung/">Strategy | Agile |Technology Professional</a><a/h1>
 
-<h2> About Me</h2>
+<h2>ABOUT ME</h2>
 I am a strategic and client-focused business management professional with a strong background across healthcare, software development, IT, and project management. My journey into project management began with organizing family trips and events, and managing my academic and career paths. Over the years, this initial spark has evolved into a refined skill set and deepened expertise. I excel in managing complex IT projects using Agile and Waterfall methodologies. My approach ensures compliance with SDLC standards and drives cross-functional alignment to deliver high-quality solutions on time. My expertise in data analytics, software development, and project management is complemented by a commitment to continuous learning. This dedication helps me effectively address challenges and provide valuable client solutions.
 
 My recent experiences include leading Scrum teams at United Health Group - Optum, where I managed sprint planning, resource allocation, and stakeholder collaboration. These roles honed my proactive problem-solving skills, communication abilities, and capacity to manage multiple priorities, consistently driving successful project outcomes.
@@ -12,7 +12,7 @@ I am passionate about fostering collaborative relationships with diverse stakeho
 Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.
 <h2></h2>
 
-<h2>Table of Contents:</h2> 
+<h2>TABLE OF CONTENTS</h2> 
 
 - <b>[ABOUT ME] </b>
 - <b>[PROJECTS]</b>
@@ -20,6 +20,7 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
     - <b>[Strategy /NPI Projects] </b>
 - <b>[CERTIFICATIONS]</b>
 - <b>[CONTACT]</b>
+- <b>[YOUTUBE VIDEOS]</b>
 
 <h2>PROJECTS</h2>
 - <b>Portfolio - Data Analysis Projects</b>
@@ -37,7 +38,7 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
       - [Fofung Voyages Strategic Technology Plan](https://github.com/LashawnFofung/Fofung-Voyages-Strategic-Technology-Plan) <b>
 <h2></h2>  
 
-<h2>Certifications:</h2>
+<h2>CERTIFICATIONS</h2>
 
 - <b> Project Management Professional(PMP)</b>
   - [Badge Link](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url) <b>
@@ -48,7 +49,11 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 
 <h2></h2>
 
-<h2>YouTube Videos</h2>
+<h2>CONTACT</h2>
 
-- [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA?si=5VsE73RqBc0Yh_8Z)
+
   
+<h2></h2>
+
+<h2>YOUTUBE VIDEOS</h2>
+- [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA?si=5VsE73RqBc0Yh_8Z)
