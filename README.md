@@ -32,10 +32,9 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 
 <h1>PROJECTS</h1>
 
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-
 <h2>Portfolio - Data Analysis Projects</h2>
-       
+       In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
 <b>Analyzing the Drug Market</b> 
          
 **Code:** [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
@@ -49,7 +48,8 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Excel Data Analysis, Decision Tree Analysis
          
 **Results:** Using ](https://github.com/LashawnFofung/LashawnFofung-Portfolio)
-
+        
+<h2></h2>
     
 <b>Analyzing the Impact Wellness Participation has on Nurse Attrition Rate</b>
         
@@ -66,7 +66,8 @@ Data-Driven Decision Making
 **Technology:** Excel Data Analysis, Decision Tree Analysis
             
 **Results:** Using .........
-    
+
+<h2></h2>
   
 
 <h2>Portfolio - Strategy Project</h2>
