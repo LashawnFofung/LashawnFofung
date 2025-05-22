@@ -47,10 +47,12 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
          
 **Technology:** Excel Data Analysis, Decision Tree Analysis
          
-**Results:** Using ](https://github.com/LashawnFofung/LashawnFofung-Portfolio)
+**Results:** Using..
         
 <h2></h2>
     
+
+
 <b>Analyzing the Impact Wellness Participation has on Nurse Attrition Rate</b>
         
 Data-Driven Decision Making
@@ -82,7 +84,7 @@ Data-Driven Decision Making
             
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
             
-**Technology:** Excel Data Analysis, Decision Tree Analysis
+**Technology:** CRM, MS Office
             
 **Results:** Using .........
 
