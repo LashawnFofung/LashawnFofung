@@ -10,7 +10,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
     - <b>Data</b>
         - Excel
           - [Analyzing the Drug Market](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#analyzing-the-drug-market)
-          - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
+          - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/LashawnFofung-Portfolio/tree/main#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
     - SQL
     - Power BI
     - Tableau
