@@ -38,7 +38,8 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
        In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 <h2></h2>
-<b>Analyzing the Drug Market</b> 
+
+<h3>Analyzing the Drug Market</h3>
          
 **Code:** [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
          
@@ -56,9 +57,7 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
     
 
 
-<b>Analyzing the Impact Wellness Participation has on Nurse Attrition Rate</b>
-        
-Data-Driven Decision Making
+<h3>Analyzing the Impact Wellness Participation has on Nurse Attrition Rate</h3>
             
 **Code:** [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
             
@@ -77,7 +76,7 @@ Data-Driven Decision Making
 
 <h2>Portfolio - Strategy Project</h2>
 
- <b> IT Strategic Solutions (SWOT Analysis, Market Research, NPI)</b>
+ <h3> IT Strategic Solutions (SWOT Analysis, Market Research, NPI)</h3>
           
 **Code:** [Fofung Voyages Strategic Technology Plan](https://github.com/LashawnFofung/Fofung-Voyages-Strategic-Technology-Plan)
             
