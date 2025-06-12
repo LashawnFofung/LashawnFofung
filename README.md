@@ -5,7 +5,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 <h2>TABLE OF CONTENTS</h2> 
 
 - <b>[ABOUT ME](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#about-me) </b>
-- <b>[PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#projects)</b>
+- <b>[PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#projects)</b>
 
     - <b>Data</b>
         - Excel
