@@ -23,7 +23,7 @@ I am a strategic and client-focused business management professional with a stro
 
 My recent experiences include leading Scrum teams at United Health Group - Optum, where I managed sprint planning, resource allocation, and stakeholder collaboration. These roles honed my proactive problem-solving skills, communication abilities, and capacity to manage multiple priorities, consistently driving successful project outcomes.
 
-In addition, I have completed immersive simulations in AI Product Management, GRC, and Cloud Computing. These projects, including PwC’s Digital Assurance & Transparency Job Simulation and designing scalable AWS cloud architectures, have sharpened my skills in client communication, control design assessment, AWS architecture, data analysis, and UX enhancement.
+In addition, I have completed immersive simulations in AI Product Management, GRC, and Cloud Computing. These projects, including PWC’s Digital Assurance & Transparency Job Simulation and designing scalable AWS cloud architectures, have sharpened my skills in client communication, control design assessment, AWS architecture, data analysis, and UX enhancement.
 
 I am passionate about fostering collaborative relationships with diverse stakeholders and creating a supportive, results-oriented workplace. Promoting diversity and inclusion is a core value, and I thrive in environments that encourage continuous learning.
 
