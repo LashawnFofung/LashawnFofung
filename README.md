@@ -67,15 +67,15 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
             
 **Code:** [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
             
-**Goal:** To determine what factors contribute the .....
+**Goal:** To determine what factors contribute to nurse attrition, specifically evaluating the impact of an Employee Well-being Program on nurse retention within a major healthcare system
             
-**Description:** The project focused on analyzing a dataset of ......
+**Description:** This project focused on analyzing a dataset of 36 months of Employee Well-being Program participation rates and corresponding nurse attrition rates within a major healthcare system. The objective was to investigate if a statistically significant linear relationship exists between monthly program participation and nurse attrition, and to inform future retention strategies. Linear regression was employed to quantify this relationship, generate a predictive model, and assess statistical significance.
             
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data Cleaning, Data Analysis, Hypothesis Testing, Data Visualization, Predictive Modeling
             
-**Technology:** Excel Data Analysis, Decision Tree Analysis
+**Technology:** Excel Data Analysis
             
-**Results:** Using .........
+**Results:** Using linear regression analysis, a statistically significant negative relationship was identified between the Employee Well-being Program's participation rate and nurse attrition rates (p < 0.01). The model revealed that approximately 75% of the variation in nurse attrition rate can be explained by the variation in program participation rate, indicating a moderate to strong fit (R-squared = 0.7485). The derived linear equation, "Predicted Nurse Attrition Rate = -0.081453147 * Program Participation Rate + 5.268268323," indicates that for every 1% increase in program participation, the nurse attrition rate is predicted to decrease by approximately 0.081%. These findings support the hospital's continued investment in and strategic enhancement of the Employee Well-being Program to stabilize its nursing workforce and reduce turnover costs.
 
 <h2></h2>
   
