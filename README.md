@@ -21,7 +21,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
      
     
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)</b>
-- <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#contact)</b>
+- <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)</b>
 - <b>[YOUTUBE VIDEOS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#youtube-videos)</b>
 
 <h2></h2>
