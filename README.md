@@ -6,14 +6,19 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 - <b>[ABOUT ME](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#about-me) </b>
 - <b>[PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#projects)</b>
-    - Excel
-        - [Analyzing the Drug Market](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#portfolio---data-analysis-projects)
-        - [Nurse Attrition Linear Regression Analysis]
-    - Strategy
+
+    - <b>Data</b>
+        - Excel
+          - [Analyzing the Drug Market](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#analyzing-the-drug-market)
+          - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
     - SQL
     - Power BI
     - Tableau
-    - Python 
+    - Python
+
+    - <b>Strategy</b>
+      - [IT Strategic Solutions (SWOT Analysis, Market Research, NPI)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#-it-strategic-solutions-swot-analysis-market-research-npi)
+    -  
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#certifications)</b>
 - <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#contact)</b>
 - <b>[YOUTUBE VIDEOS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/edit/main/README.md#youtube-videos)</b>
