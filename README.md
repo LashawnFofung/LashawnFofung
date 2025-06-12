@@ -49,15 +49,15 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
          
 **Code:** [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
          
-**Goal:** To determine what factors contribute 
+**Goal:** To determine which strategy, new drug development or existing drug modification, will maximize expected financial value for Major Pharmaceutical Company (MPC) amidst market uncertainty and new competition.
          
-**Description:** The project focused on analyzing a dataset of 
+**Description:** The project focused on analyzing a dataset related to drug line development strategies for Major Pharmaceutical Company (MPC). It involved evaluating potential outcomes, probabilities, and payoffs for three strategic actions: new drug development, existing drug modification, and no change. The analysis aimed to provide a data-driven recommendation for MPC's drug line development plan, minimizing risk and maximizing potential returns in a complex market. 
          
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization
+**Skills:** Data Analysis , Decision Tree Analysis , Expected Value Calculation , Strategic Decision-making Under Uncertainty
          
 **Technology:** Excel Data Analysis, Decision Tree Analysis
          
-**Results:** Using..
+**Results:** Using decision tree analysis, the "Existing Drug Line" strategy was identified as the most financially advantageous option, yielding the highest expected financial value of $3,870.02. This significantly outperformed developing a new drug line ($2,763.08) and maintaining the current approach ($868.39). The analysis strongly recommends that Major Pharmaceutical Company (MPC) immediately prioritize and allocate resources to the modification of its Existing Drug Line.
         
 <h2></h2>
     
