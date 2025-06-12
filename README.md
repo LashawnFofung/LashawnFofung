@@ -63,7 +63,7 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
     
 
 
-<h3>Analyzing the Impact Wellness Participation has on Nurse Attrition Rate</h3>
+<h3>Analyzing the Impact of Wellness Participation on Nurse Attrition Rate</h3>
             
 **Code:** [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
             
