@@ -17,8 +17,8 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
     - Python
 
     - <b>Strategy</b>
-      - [IT Strategic Solutions (SWOT Analysis, Market Research, NPI)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-it-strategic-solutions-swot-analysis-market-research-npi)
       - [FO Tread Bikes (Conscious Capitalism)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
+      - [IT Strategic Solutions (SWOT Analysis, Market Research, NPI)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-it-strategic-solutions-swot-analysis-market-research-npi)
      
     
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)</b>
