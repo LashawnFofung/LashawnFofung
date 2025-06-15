@@ -18,6 +18,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
     - <b>Strategy</b>
       - [IT Strategic Solutions (SWOT Analysis, Market Research, NPI)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-it-strategic-solutions-swot-analysis-market-research-npi)
+      - [FO Tread Bikes (Conscious Capitalism)]
      
     
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)</b>
@@ -81,6 +82,23 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
   
 
 <h2>Portfolio - Strategy Project</h2>
+
+<h3> FO Tread Bikes (Conscious Capitalism)</h3>
+          
+**Code:** [FO Tread Bikes](https://github.com/LashawnFofung/FO-Tread-Bikes)
+            
+**Goal:** To determine what factors contribute the .....
+            
+**Description:** The project focused on analyzing a dataset of ......
+            
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+            
+**Technology:** CRM, MS Office
+            
+**Results:** Using .........
+
+<h2></h2>  
+
 
  <h3> IT Strategic Solutions (SWOT Analysis, Market Research, NPI)</h3>
           
