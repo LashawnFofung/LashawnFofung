@@ -29,7 +29,7 @@ MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM · Oracle 
 | Project | What it shows | Highlight |
 |---|---|---|
 | **[AI Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)** | Document AI MVP: splits multi-document PDFs, routes questions to the right document type, answers with page-level citations | 🏆 Top Performer Award (Top 10%) · [Live demo](https://huggingface.co/spaces/lfofung/AI-Powered-Document-Intelligence-Automation-Platform) |
-| **[Wayfair Agentic BI](https://github.com/LashawnFofung/Wayfair-Agentic-BI)** | Three AI agents specced with full PRDs, plus a clickable market-intelligence dashboard prototype | [Prototype demo](https://youtu.be/7shTzdWxmfE) |
+| **[Wayfair Agentic BI](https://github.com/LashawnFofung/Wayfair-Agentic-BI)** | Four PRDs, a dashboard prototype, and five working n8n agents ([build repo](https://github.com/LashawnFofung/Agentic-Workflow-Hub)) | [Prototype demo](https://youtu.be/7shTzdWxmfE) |
 | **[BeReal Passport & Community Boards](https://github.com/LashawnFofung/BeReal-RealProcess)** | UX + product case study: persona, journey map, 7-screen prototype, focus group | 4 of 5 testers would open the app more · [Try it](https://lashawnfofung.github.io/BeReal-RealProcess/) |
 | **[News Corp: AI for Gen Z Trust](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)** | User research → AI feature strategy → KPIs | Quantified a 42% trust deficit |
 | **[Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance)** | SQL + Tableau profitability analysis, planned with a WBS | Found why $2.3M in sales yielded only a 12.47% profit ratio |
