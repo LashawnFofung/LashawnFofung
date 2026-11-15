@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/lf-banner.png" alt="Lashawn Fofung — Technical Product Manager, AI Builder, Clinician turned PM" width="100%">
+
 # Hi, I'm Lashawn 👋
 ### Technical Product Manager · AI Products, Agentic Workflows & RAG
 
@@ -7,6 +9,8 @@
 
 MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM · Oracle OCI Generative AI Professional
 
+[![Start Here](https://img.shields.io/badge/Start_Here-Portfolio-1C355E?style=flat)](https://lashawnfofung.substack.com/p/start-here)
+[![Substack](https://img.shields.io/badge/Substack-Unfiltered_Product_Strategy-FF6719?style=flat&logo=substack&logoColor=white)](https://lashawnfofung.substack.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lashawnfofung/)
 [![YouTube](https://img.shields.io/badge/YouTube-Demos-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@LashawnFofung)
 
@@ -24,15 +28,15 @@ MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM · Oracle 
 
 ---
 
-### ⭐ Featured Work
+### ⭐ Featured Builds
 
-| Project | What it shows | Highlight |
-|---|---|---|
-| **[AI Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)** | Document AI MVP: splits multi-document PDFs, routes questions to the right document type, answers with page-level citations | 🏆 Top Performer Award (Top 10%) · [Live demo](https://huggingface.co/spaces/lfofung/AI-Powered-Document-Intelligence-Automation-Platform) |
-| **[Wayfair Agentic BI](https://github.com/LashawnFofung/Wayfair-Agentic-BI)** | Four PRDs, a dashboard prototype, and five working n8n agents ([build repo](https://github.com/LashawnFofung/Agentic-Workflow-Hub)) | [Prototype demo](https://youtu.be/7shTzdWxmfE) |
-| **[BeReal Passport & Community Boards](https://github.com/LashawnFofung/BeReal-RealProcess)** | UX + product case study: research, 7-screen prototype, focus group, PRD v1→v2, A/B test plan, technical design | 4 of 5 testers would open the app more · [Try it](https://lashawnfofung.github.io/BeReal-RealProcess/) · [White paper](https://github.com/LashawnFofung/BeReal-RealProcess/blob/main/White%20Paper/The_Real_Process_BeReal_Externship_White_Paper.pdf) |
-| **[News Corp: AI for Gen Z Trust](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)** | User research → AI feature strategy → KPIs | Quantified a 42% trust deficit |
-| **[Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance)** | SQL + Tableau profitability analysis, planned with a WBS | Found why $2.3M in sales yielded only a 12.47% profit ratio |
+| Project | What it shows | Highlight | Read & watch |
+|---|---|---|---|
+| **[AI Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)** | Document AI MVP: splits multi-document PDFs, routes questions to the right document type, answers with page-level citations | 🏆 Top Performer Award (Top 10%) · ~60% less review time · [Live demo](https://huggingface.co/spaces/lfofung/AI-Powered-Document-Intelligence-Automation-Platform) | [Write-up](https://lashawnfofung.substack.com/p/how-i-built-an-ai-powered-document) · [Videos](https://www.youtube.com/playlist?list=PLzu4-SQ8qjAiKlR8NY0dDM0hHF36gIarp) |
+| **[Wayfair Agentic BI](https://github.com/LashawnFofung/Wayfair-Agentic-BI)** | Four PRDs, a dashboard prototype, and five working n8n agents ([build repo](https://github.com/LashawnFofung/Agentic-Workflow-Hub)) | ~8 hrs/week of manual research automated · [Prototype demo](https://youtu.be/7shTzdWxmfE) | [Write-up](https://lashawnfofung.substack.com/p/two-ai-builds-one-lesson-why-system) · [Videos](https://www.youtube.com/playlist?list=PLzu4-SQ8qjAiMFCwVpI8Cu53mdpgODJ92) |
+| **[BeReal Passport & Community Boards](https://github.com/LashawnFofung/BeReal-RealProcess)** | UX + product case study: research, 7-screen prototype, focus group, PRD v1→v2, A/B test plan, technical design | 🏆 Top Performer · 4 of 5 testers would open the app more · [Try it](https://lashawnfofung.github.io/BeReal-RealProcess/) · [White paper](https://github.com/LashawnFofung/BeReal-RealProcess/blob/main/White%20Paper/The_Real_Process_BeReal_Externship_White_Paper.pdf) | [Write-up](https://lashawnfofung.substack.com/p/the-real-process-what-8-weeks-as) · [Videos](https://www.youtube.com/playlist?list=PLPaj8Rf_HIqo) |
+| **[News Corp: AI for Gen Z Trust](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)** | User research → AI feature strategy → KPIs | Quantified a 42% trust deficit | |
+| **[Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance)** | SQL + Tableau profitability analysis, planned with a WBS | Found why $2.3M in sales yielded only a 12.47% profit ratio | |
 
 ---
 
@@ -55,6 +59,6 @@ MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM · Oracle 
 
 <div align="center">
 
-**Open to Technical PM and AI PM roles** · 👉 [Let's connect on LinkedIn](https://www.linkedin.com/in/lashawnfofung/)
+**Open to Technical PM and AI PM roles** · 👉 [Let's connect on LinkedIn](https://www.linkedin.com/in/lashawnfofung/) · 📰 [Read the real process on Substack](https://lashawnfofung.substack.com/p/start-here)
 
 </div>
