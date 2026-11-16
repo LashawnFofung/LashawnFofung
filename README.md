@@ -34,6 +34,7 @@ MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM · Oracle 
 |---|---|---|---|
 | **[AI Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)** | Document AI MVP: splits multi-document PDFs, routes questions to the right document type, answers with page-level citations | 🏆 Top Performer Award (Top 10%) · ~60% less review time · [Live demo](https://huggingface.co/spaces/lfofung/AI-Powered-Document-Intelligence-Automation-Platform) | [Write-up](https://lashawnfofung.substack.com/p/how-i-built-an-ai-powered-document) · [Videos](https://www.youtube.com/playlist?list=PLzu4-SQ8qjAiKlR8NY0dDM0hHF36gIarp) |
 | **[Wayfair Agentic BI](https://github.com/LashawnFofung/Wayfair-Agentic-BI)** | Four PRDs, a dashboard prototype, and five working n8n agents ([build repo](https://github.com/LashawnFofung/Agentic-Workflow-Hub)) | ~8 hrs/week of manual research automated · [Prototype demo](https://youtu.be/7shTzdWxmfE) | [Write-up](https://lashawnfofung.substack.com/p/two-ai-builds-one-lesson-why-system) · [Videos](https://www.youtube.com/playlist?list=PLzu4-SQ8qjAiMFCwVpI8Cu53mdpgODJ92) |
+| **[AI Content Ops Agent](https://github.com/LashawnFofung/ai-content-ops-agent)** | Agent built in Claude Code that turns one voice recording into a video, Shorts, a podcast and posts, with 5 human approval gates | Career Pivot Ep. 3 shipped to YouTube, Substack, Spotify and Apple Podcasts | [Podcast](https://lashawnfofung.substack.com/p/career-pivot-ep-3-from-nurse-to-scrum) · [Videos](https://www.youtube.com/playlist?list=PLba1tur-5-iU) |
 | **[BeReal Passport & Community Boards](https://github.com/LashawnFofung/BeReal-RealProcess)** | UX + product case study: research, 7-screen prototype, focus group, PRD v1→v2, A/B test plan, technical design | 🏆 Top Performer · 4 of 5 testers would open the app more · [Try it](https://lashawnfofung.github.io/BeReal-RealProcess/) · [White paper](https://github.com/LashawnFofung/BeReal-RealProcess/blob/main/White%20Paper/The_Real_Process_BeReal_Externship_White_Paper.pdf) | [Write-up](https://lashawnfofung.substack.com/p/the-real-process-what-8-weeks-as) · [Videos](https://www.youtube.com/playlist?list=PLPaj8Rf_HIqo) |
 | **[News Corp: AI for Gen Z Trust](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)** | User research → AI feature strategy → KPIs | Quantified a 42% trust deficit | |
 | **[Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance)** | SQL + Tableau profitability analysis, planned with a WBS | Found why $2.3M in sales yielded only a 12.47% profit ratio | |
@@ -52,7 +53,7 @@ MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM · Oracle 
 ### 🧰 Toolkit
 
 **Product:** PRDs · Roadmapping · User research · Usability testing · Prototyping · Jira · Figma · Scrum
-**AI:** RAG · LlamaIndex · FAISS · Gemini API · Mistral · Phi-2 · n8n agentic workflows · Gradio
+**AI:** RAG · LlamaIndex · FAISS · Gemini API · Mistral · Phi-2 · n8n agentic workflows · Claude Code agents & skills · Gradio
 **Data:** Python · SQL · Tableau · Power BI · Excel
 
 ---
