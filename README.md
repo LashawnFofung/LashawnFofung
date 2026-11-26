@@ -1,9 +1,6 @@
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/readme-header-dark.svg"><img src="assets/readme/readme-header-light.svg" width="880" alt="Lashawn Fofung: clinician to tech to product. Technical Product Manager building with AI."></picture></p>
+
 <div align="center">
-
-<img src="assets/lf-banner.png" alt="Lashawn Fofung — Technical Product Manager, AI Builder, Clinician turned PM" width="100%">
-
-# Hi, I'm Lashawn 👋
-### Technical Product Manager · AI Products, Agentic Workflows & RAG
 
 **Great technology should feel effortless. I work where models meet products — turning AI capability into something people can actually use and trust.**
 
@@ -15,6 +12,25 @@ MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM · Oracle 
 [![YouTube](https://img.shields.io/badge/YouTube-Demos-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@LashawnFofung)
 
 </div>
+
+## Quick Tour
+
+Featured builds first, then where I write and talk about them.
+
+<table>
+<tr>
+<td><a href="https://github.com/LashawnFofung/ai-content-ops-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-01-ai-content-ops-agent-dark.svg"><img src="assets/readme/card-01-ai-content-ops-agent-light.svg" width="420" alt="AI Content Ops Agent: Voice recording in, six platforms out. Build."></picture></a></td>
+<td><a href="https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-02-document-ai-platform-dark.svg"><img src="assets/readme/card-02-document-ai-platform-light.svg" width="420" alt="Document AI Platform: Split, silo, cite for messy PDFs. Build."></picture></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/LashawnFofung/Wayfair-Agentic-BI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-03-agentic-bi-dark.svg"><img src="assets/readme/card-03-agentic-bi-light.svg" width="420" alt="Agentic BI: Market intelligence agent in n8n. Build."></picture></a></td>
+<td><a href="https://github.com/LashawnFofung/BeReal-RealProcess"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-04-realprocess-dark.svg"><img src="assets/readme/card-04-realprocess-light.svg" width="420" alt="RealProcess: A product case study and prototype. Case study."></picture></a></td>
+</tr>
+<tr>
+<td><a href="https://lashawnfofung.substack.com/p/start-here"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-05-unfiltered-product-strategy-dark.svg"><img src="assets/readme/card-05-unfiltered-product-strategy-light.svg" width="420" alt="Unfiltered Product Strategy™: Start here on Substack. Writing."></picture></a></td>
+<td><a href="https://www.linkedin.com/in/lashawnfofung/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-06-linkedin-dark.svg"><img src="assets/readme/card-06-linkedin-light.svg" width="420" alt="LinkedIn: Career notes and project recaps. Connect."></picture></a></td>
+</tr>
+</table>
 
 ---
 
@@ -58,8 +74,24 @@ MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM · Oracle 
 
 ---
 
+## My Repo Refresh!
+
+I am a visual and creative person. When I came across a designed README and found out this was actually possible on GitHub, I knew it fit my personality: a pop of color and graphic design. I wanted to learn how to build it and bring it into my brand and my projects.
+
+| Stage | What my READMEs looked like |
+|---|---|
+| Old School | Plain text and basic Markdown. |
+| Emojis and Badges | Emojis, plus the LinkedIn, Claude Code and Substack badges. |
+| Repo Refresh | A designed header, a card grid, and light and dark mode, all in my brand colors. |
+
+---
+
 <div align="center">
 
 **Open to Technical PM and AI PM roles** · 👉 [Let's connect on LinkedIn](https://www.linkedin.com/in/lashawnfofung/) · 📰 [Read the real process on Substack](https://lashawnfofung.substack.com/p/start-here)
 
 </div>
+
+---
+
+<p align="center"><sub>Built by Lashawn Fofung · LF™ · Learn. Apply. Grow. Repeat.</sub></p>
